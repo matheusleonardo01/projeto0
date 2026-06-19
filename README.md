@@ -1,31 +1,32 @@
+# 🧠 Mapa Mental: As Funções de um Programador
+
+Este mapa mental ilustra as principais responsabilidades, habilidades e rotinas que fazem parte do dia a dia de um desenvolvedor de software.
+
+```mermaid
 mindmap
-  root((Programação))
-    Fundamentos
-      Lógica de Programação
-      Algoritmos
-      Estruturas de Dados
-      Variáveis e Tipos
-    Áreas de Atuação
-      Frontend
-        HTML / CSS
-        JavaScript / TypeScript
-        Frameworks (React, Vue, Angular)
-      Backend
-        Linguagens (Python, Node.js, Java, Go)
-        Bancos de Dados (SQL, NoSQL)
-        APIs (REST, GraphQL)
-      Mobile
-        Nativo (Swift, Kotlin)
-        Híbrido (Flutter, React Native)
-      Outras Áreas
-        Data Science / IA
-        DevOps / Cloud
-        Cybersecurity
-    Ferramentas Essenciais
-      Git e GitHub
-      Editores (VS Code, JetBrains)
-      Terminal / CLI
-    Boas Práticas
-      Clean Code
-      Testes (Unitários, Integração)
-      Padrões de Projeto (Design Patterns)
+  root((Programador))
+    Desenvolvimento de Código
+      Escrever código limpo
+      Arquitetura de software
+      Refatoração
+      Resolução de bugs
+    Alinhamento e Regras de Negócio
+      Análise de requisitos
+      Entender o problema do cliente
+      Desenhar soluções técnicas
+    Testes e Qualidade
+      Testes unitários
+      Testes de integração
+      Revisão de código (Code Review)
+    Trabalho em Equipe e Cultura
+      Metodologias Ágeis (Scrum/Kanban)
+      Reuniões diárias (Dailies)
+      Comunicação interdepartamental
+    Ferramentas e Infraestrutura
+      Controle de versão (Git/GitHub)
+      CI/CD (Deploy contínuo)
+      Configuração de ambientes
+    Evolução Contínua
+      Aprender novas tecnologias
+      Documentar o sistema
+      Mentoria de devs juniores
